@@ -3,7 +3,7 @@
 
 This is a simple JavaScript console-based Elevator Simulator that simulates an elevator servicing requests for specific floors in either upward or downward direction. It logs the elevator's movement and handles input validation for floors and directions.
 
-Performance improvement can be made if used Min/Max Heap and it would also allow floors to visit change dynamically
+Performance improvement can be made if used Min/Max Heap and it would also allow floors to be visited to change dynamically.
 
 # How It Works
 1. Instantiate the elevator with a max number of floors:
