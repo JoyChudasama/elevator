@@ -4,7 +4,7 @@ class Elevator {
 
     constructor(floors) {
         this.floors = floors;
-        this.floorsToVisit = []; // Priority Queue based on the given direction
+        this.floorsToVisit = []; 
         this.currFloor = 1;
         this.currDirection = '';
         this.log = '';
